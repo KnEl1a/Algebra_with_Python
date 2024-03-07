@@ -8,33 +8,47 @@ Through these endeavors, I have synthesized mathematical knowledge gained throug
 programming methodologies. This integration of mathematical theory with computational tools has not only enriched my academic experience but also equipped me with valuable skills for real-world problem-solving 
 in mathematical modeling and analysis.
 
+#### Technologies Used: Python 3.11 - Jupyter Lab (IDE) for testing - VSCode (IDE) for structuring each algorithm.
 
-#### Tecnologías utilizadas : Python 3.11 - Jupyter Lab (IDE) para pruebas - VSCode (IDE) para estructurar cada algoritmo.
+#### Libraries: pandas, numpy, SimPy, and matplotlib.
 
-#### Librerías: pandas, numpy, SimPy y matplotlib.
-
-## Descripcion de Proyectos : 
-todos representan archivos .ipynb hechos en google colab, al final de cada notebook esta el proyecto final, que incorpora todos los aspectos esenciales aprendidos en el tema.
+## Project Description:
+All projects are represented as .ipynb files created in Google Colab, and at the end of each notebook is the final project, which incorporates all essential aspects learned in the topic.
 
 **Algebraic Calculator**
 
-Este proyecto contiene una serie de funciones que realizan operaciones algebraicas y matemáticas básicas, así como también funciones para detectar números primos, generar factores primos de un número y simplificar la raíz cuadrada. Las operaciones disponibles incluyen suma, resta, multiplicación y división, junto con la resolución de ecuaciones lineales y la detección de números primos. Además, proporciona la capacidad de generar los factores primos de un número dado y simplificar la raíz cuadrada de un número. El programa interactúa con el usuario a través de un menú de selección y solicita la entrada necesaria para realizar la operación deseada.
+This project contains a series of functions that perform basic algebraic and mathematical operations, as well as functions to detect prime numbers, generate prime factors of a number, and simplify the square root. Available operations include addition, subtraction, multiplication, and division, along with solving linear equations and prime number detection. Additionally, it provides the capability to generate the prime factors of a given number and simplify the square root of a number. The program interacts with the user through a selection menu and prompts for the necessary input to perform the desired operation.
 
 **Graphic Polynomials Calculator.ipynb**
 
-Este archivo contiene una serie de funciones para realizar operaciones algebraicas y gráficas. Incluye la capacidad de mostrar un gráfico y una tabla de valores para cualquier ecuación de la forma y = f(x) , resolver un sistema de dos ecuaciones, graficar dos ecuaciones y mostrar su punto de intersección, y encontrar y graficar el vértice de una ecuación cuadrática. El programa interactúa con el usuario a través de un menú de selección y solicita la entrada necesaria para realizar la operación deseada.
+This file contains a series of functions to perform algebraic and graphical operations. It includes the ability to display a graph and a table of values for any equation of the form y = f(x), solve a system of two equations, graph two equations and show their point of intersection, and find and graph the vertex of a quadratic equation. The program interacts with the user through a selection menu and prompts for the necessary input to perform the desired operation.
 
 **Three Math Games**
-Este archivo contiene tres juegos diferentes:
 
-1. **Scatter Plot Game**: El juego genera puntos aleatorios en un plano cartesiano y el jugador debe ingresar coordenadas (x, y) para intentar acercarse a uno de los puntos generados.
+This file contains three different games:
 
-2. **Algebra Practice Game**: En este juego se generan ecuaciones aleatorias de una o dos variables con coeficientes aleatorios y el jugador debe resolverlas para encontrar el valor de la variable desconocida.
+1. **Scatter Plot Game**: The game generates random points on a Cartesian plane, and the player must input coordinates (x, y) to try to get close to one of the generated points.
 
-3. **Simple Projectile Game**: El jugador debe ajustar el ángulo y la velocidad de un proyectil para intentar superar un muro de altura y posición aleatorias. Si el proyectil alcanza una distancia mayor o igual a la posición del muro, el jugador gana.
+2. **Algebra Practice Game**: In this game, random equations with one or two variables and random coefficients are generated, and the player must solve them to find the value of the unknown variable.
 
+3. **Simple Projectile Game**: The player must adjust the angle and velocity of a projectile to try to overcome a wall of random height and position. If the projectile reaches a distance greater than or equal to the position of the wall, the player wins.
 
 **Financial Calculator**
 
+This project contains a program that offers the user four options related to financial calculations:
 
+1. **Mortgage Payment**: Calculates the monthly payment of a mortgage given the borrowed amount, annual interest rate, and number of years.
 
+2. **Investment Balance**: Calculates the balance of an investment after a certain number of years, considering an initial amount, annual interest rate, and additional monthly contributions.
+
+3. **Time to Double Money**: Determines the time needed for a sum of money to double with continuous growth, given an initial amount and an annual interest rate.
+
+4. **Rates of Growth**: Calculates the future value of an investment compounded annually, compounded multiple times a year, and compounded continuously, given the principal, interest rate, time, and number of times compounded per year.
+
+**Graphic Polynomials Calculator**
+
+This file parses an XML file containing data on drug overdose death rates in the United States. It uses the `requests` library to fetch the XML file content from a URL and `xml.etree.ElementTree` to parse and structure the XML data. Then, it uses `pandas` to create a DataFrame with the data and display the first rows of the DataFrame. Additionally, basic data analysis is performed afterward, and more visualizations of the obtained data are created.
+
+##### Conclusion
+
+This "Algebra with Python" repository is a testament to my passion for learning, my ability to integrate theoretical concepts with practical applications, and a demonstration of commitment to continuous improvement. It is a valuable resource for both students and professionals interested in exploring the intersection between algebra and programming with Python.
