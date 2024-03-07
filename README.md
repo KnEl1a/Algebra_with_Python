@@ -1,5 +1,5 @@
 # Álgebra with python
-Mi certificado del BootCamp de programación: [FreeCodeCamp](https://www.freecodecamp.org/certification/Knaus-Elias-Gustavo/college-algebra-with-python-v8)
+My programming BootCamp certificate: [FreeCodeCamp](https://www.freecodecamp.org/certification/Knaus-Elias-Gustavo/college-algebra-with-python-v8)
 
 [![pexels-sergey-meshkov-8482062.jpg](https://i.postimg.cc/j2Hg3cdB/pexels-sergey-meshkov-8482062.jpg)](https://postimg.cc/8fCmjhvb)
 
