@@ -21,11 +21,11 @@ This project contains a series of functions that perform basic algebraic and mat
 
 **Graphic Polynomials Calculator.ipynb**
 
-This file contains a series of functions to perform algebraic and graphical operations. It includes the ability to display a graph and a table of values for any equation of the form y = f(x), solve a system of two equations, graph two equations and show their point of intersection, and find and graph the vertex of a quadratic equation. The program interacts with the user through a selection menu and prompts for the necessary input to perform the desired operation.
+This project contains a series of functions to perform algebraic and graphical operations. It includes the ability to display a graph and a table of values for any equation of the form y = f(x), solve a system of two equations, graph two equations and show their point of intersection, and find and graph the vertex of a quadratic equation. The program interacts with the user through a selection menu and prompts for the necessary input to perform the desired operation.
 
 **Three Math Games**
 
-This file contains three different games:
+This projects contains three different games:
 
 1. **Scatter Plot Game**: The game generates random points on a Cartesian plane, and the player must input coordinates (x, y) to try to get close to one of the generated points.
 
@@ -47,7 +47,7 @@ This project contains a program that offers the user four options related to fin
 
 **Graphic Polynomials Calculator**
 
-This file parses an XML file containing data on drug overdose death rates in the United States. It uses the `requests` library to fetch the XML file content from a URL and `xml.etree.ElementTree` to parse and structure the XML data. Then, it uses `pandas` to create a DataFrame with the data and display the first rows of the DataFrame. Additionally, basic data analysis is performed afterward, and more visualizations of the obtained data are created.
+This project parses an XML file containing data on drug overdose death rates in the United States. It uses the `requests` library to fetch the XML file content from a URL and `xml.etree.ElementTree` to parse and structure the XML data. Then, it uses `pandas` to create a DataFrame with the data and display the first rows of the DataFrame. Additionally, basic data analysis is performed afterward, and more visualizations of the obtained data are created.
 
 ##### Conclusión
 
